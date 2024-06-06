@@ -1,2 +1,0 @@
-# Alpaco
-Project of Alpaco
